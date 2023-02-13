@@ -1,1 +1,0 @@
-basics directory read me 
