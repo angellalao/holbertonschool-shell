@@ -1,0 +1,1 @@
+Read me file for init variables and expansions
